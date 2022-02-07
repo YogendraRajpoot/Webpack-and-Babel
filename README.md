@@ -1,2 +1,2 @@
 # Webpack-and-Babel
-#NOTES taking web application.
+NOTES taking web application.
